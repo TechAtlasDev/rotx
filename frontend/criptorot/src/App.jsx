@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { encodeFetch, decodeFetch } from "./lib/fetchData";
+import { encodeFetch, decodeFetch } from "./utilities/fetchData";
 
 import KeySelector from "./components/keyselector";
 import CardInputText from "./components/CardInputText";
